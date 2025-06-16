@@ -1,0 +1,4 @@
+Date,Paper Title,Author,Year,Category,Summary,Included in Review (Y/N),Notes
+2025-06-10,Efficient and Robust Rotation Averaging,Chatterjee,2013,rotation_averaging,L1-IRLS method,Y,Core method
+2025-06-12,Combining Two-View Constraints,Govindu,2001,rotation_averaging,Motion consistency matrix,Y,SVD-based method
+2025-06-14,TEASER: Certifiable Registration,Yang,2020,sdp_relaxation,SDP + max inlier set,Y,Strong outlier resistance
